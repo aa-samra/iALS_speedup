@@ -5,7 +5,6 @@ These experiments compare several implementations for implicit feedback Alternat
 ## Requirements: 
 * `numpy`
 * `pandas`
-* `cupy`
 * `scipy`
 * `matplotlib`
 * `tqdm `
