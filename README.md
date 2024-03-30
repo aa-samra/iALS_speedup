@@ -1,6 +1,6 @@
 # Comparison of Several Implementations for iALS (Rendle 2021) 
 
-There experiment compare several implementations for implicit feedback Alternating Least Squares (iALS). All of them adopt the matrix factorization approach (not SDG). 
+There experiment compare several implementations for implicit feedback Alternating Least Squares (iALS). All of them adopt the matrix factorization approach (not SDG) and exploit the sparsity of the user/item interaction matrix. 
 
 ## Requirements: 
 * `numpy`
