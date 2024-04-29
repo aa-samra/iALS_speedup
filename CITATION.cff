@@ -4,8 +4,8 @@ authors:
 - family-names: "Samra"
   given-names: "Abdulaziz"
   orcid: "https://orcid.org/0009-0004-9793-7832"
-title: "iALS_speedup"
+title: "Comparison of Several Implementations for iALS speedup"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: 10.5281/zenodo.11085635
 date-released: 2024-02-29
 url: "https://github.com/aa-samra/iALS_speedup"
